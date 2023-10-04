@@ -1,6 +1,6 @@
 # Responsive Mapping at NACIS 2023
 
-Workshop hosted by SzuYu Chen and Kati Perry
+Workshop hosted by [SzuYu Chen](https://www.washingtonpost.com/people/szuyu-chen/) and [Kati Perry](https://www.washingtonpost.com/people/kati-perry/)
 
 ## Links you'll need:
 
