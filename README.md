@@ -1,4 +1,6 @@
-# nacis-responsive-mapping-2023
+# Responsive Mapping at NACIS 2023
+
+Workshop hosted by SzuYu Chen and Kati Perry
 
 ## Links you'll need:
 
